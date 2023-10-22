@@ -18,6 +18,10 @@ To do:
 
 [CSE 30](link)
 
+[CSE 12](link)
+
+[CSE 15L](link)
+
 [CSE 100](link)
 
 [Personal Projects](link)
