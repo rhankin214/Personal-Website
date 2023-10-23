@@ -1,4 +1,4 @@
-Been meaning to actually make a videogame for so damn long. I watched a fantasy series that was meant to be a sort of dark fantasy riff on the usual magic school setup, but it ended up disappointing me. It got me to feel inspired so I ended up starting whatever this is.
+Been meaning to actually make a videogame for so damn long. I watched a fantasy series that was meant to be a sort of dark fantasy riff on the usual magic school setup, but it ended up disappointing me. It got me to feel inspired so I ended up starting whatever this is. I landed on a grid based jrpg I guess because I've played so much trails and fire emblem.
 
 Making my own game is something that I've tried to do for the longest time, but I never managed to focus myself. I've made a lot . I'm hoping the 21 year old version of me can manage what the younger versions couldn't.
 
