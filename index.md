@@ -5,7 +5,7 @@ In these cases I haven't written 100% of the code, but I've left the comments on
 
 <p>I'm making this for my Blizzard internship application in my Junior year and I'm trying to put everything I've done that I have access to, so apologies that things are unfinished atm. I aim to have this all done within a week or two. If the site is super duper broken atm then I apologize for that.</p>
 
-atm please just use the github repository if you want to click through.
+atm please just use the github repository if you want to click through. I know a big pile of files and folders is a horrible reading experience, so maybe wait a few days.
 
 To do: 
   1. finish uploading everything.
