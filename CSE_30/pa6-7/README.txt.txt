@@ -1,0 +1,1 @@
+The purpose of this assignment was to implement our own student versions of C's malloc and free methods to teach us about dynamic memory.
