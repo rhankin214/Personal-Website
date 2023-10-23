@@ -1,0 +1,45 @@
+How to code.
+
+Start with the grid. The two most basic ui elements are the grid and the turn order. Characters have a designated spot on the grid and in the turn order. When they are killed they're removed from the turn order.
+
+character object -> player object -> various characters? Not sure if required
+                 -> enemy object -> various enemies
+
+character object
+- grid location
+- stats
+- ap amount
+- sub object that's put in turn order queue and can refer back to parent.
+
+Turn order can be a queue, determined at the start by speed stats. When someone moves, they exit and reenter at the back. We're not gonna worry about delay.
+
+We need a target finding function
+
+Start with a one player and one enemy situation.
+
+Grid should be 5x5 or 6x6 maybe so that a 3x3 aoe can exist without covering everything. What is the grid? 
+
+Grid is internally a 2d array of character objects. Graphical version of the grid is rendered by running through the internal grid and placing sprites associated with each object.
+
+
+How do we want to handle the various actions? An action has three steps
+
+1) selection process
+2) target selection process
+3) execution
+
+So the first thing it needs to do is show a navigable move list.
+Basic attack
+skill/magic
+item
+defend
+possibly a special or a limit break type attack
+
+Then it needs to properly open a new menu or go to target selection.
+
+I shouldn't worry about how the interface looks because it'll all be different when I switch to GUI.
+
+
+What do we want to happen when a player character gets knocked out? I think we want to put them at the back of the turn order.
+
+So we can just say. "If is player, TurnQueue.remove(character), TurnQueue.offer(character)"

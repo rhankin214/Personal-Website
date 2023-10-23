@@ -1,0 +1,61 @@
+Medieval fantasy setting with some modern amenities facilitated by magic.
+
+A beast far beyond anything mankind could reckon with nearly obliterated society. It wiped the capital of the most militarily powerful nation off the map. However, one person rose up that defeated the creature and subsequently disappeared. Fearing it would come back, world leaders started a project to create supersoldiers that could fight it off. They disguised this program as a prestigious magic academy. It has a lethal curriculum that kills half the students, drives 40% insane, and buys the silence of the remaining 10. It is inefficient and horribly mismanaged. All out of the world leader's paranoia and desperation.
+
+A supersoldier program masquerading as hogwarts.
+
+A person's magic is basically set in stone by the time they're 20, this is why the efforts focus on teenagers.
+
+
+The school is enclosed in a barrier under the pretense of keeping the students out of the dangerous surrounding wilderness. It's really to keep them, and the animals who are meant to be resources/training obstacles for them, from escaping.
+
+
+Characters
+
+I want the last segment of the game to involve divying the characters up into groups of two now that they're super overtuned. Each character has their own "chapter" to worry about. Each group of two will go to both of those character's chapters. This lets you fuck about with different character synergies.
+
+
+How many party members do I want?
+
+We have the princess, the bastard son, the mage, the tough. This party is too angsty. We need a ray of sunshine. Maybe he's like Yazad from that book I like. I think five with occasional guest stars would be good.
+
+The mage is literally me. Terse, but acts like a nutcase when he's alone. Wants to understand magic. His magic has its own rules out of his sheer will for it. His magic is based off numbers and shit. Like princess he was sent there because he was an inconvenient personality as an heir. Though his baseline aptitude is actually noteworthy.
+
+The tough is from the same noble house as the hero. His family as a whole operates in a similar way to the academy. He's done a lot of labor. He's had machismo ground right into his brain. He never met his mom. He's just one of many kids pumped out by his dad, attending with a few of his brothers. His siblings are all assholes. The house's view of the hero is sort of classical Tyler Durden manly man. Tough believes in a more sincere martyrdom/heroism thing. A more pure altruism. The hero is going to end up being that Tyler Durden manly man, but the tough's not gonna care. He's gonna have already accepted that this is who he wants to be, regardless of expecations.
+
+Sunshine is fun. From a foreign land. Just really keeps the mood from sucking. Not comic relief, although you will laugh with them. Kind of androgenous. Constantly having a good time. Has kind and loving parents. Came to the academy because they bought into the propaganda.
+
+Do some research on zoroastrianism
+
+"Your god sucks donkey balls. Would you like to hear about my god?"
+
+
+The bastard is a religious kid with a lot of guilt. Everyone knew what he was from birth because he's mixed. Formerly a criminal. Very Balthus-esque. When he and his gang were caught the bastard was bailed out by his family. He masks his guilt and troubles with a devil-may-care attitude. He's scared of the person he once was and keeps a strict code of conduct. His old gang are going to the academy too. They were pulled out because they "had potential." They worship the bastard somewhat. The want the old days. They want him to be the person he used to be. They cause escalating trouble trying to set him off. His gang can be a set of antagonists that aren't directly tied to the school
+
+"You want me off the leash? Fine. You fucks don't deserve me on a leash. You want a boss? Boss says start a soup kitchen."
+
+Gameplay wise idk I guess he does a lot of damage. He's inhumanly strong. Agate moment.
+
+
+The tough has seen some shit. He takes a lot of shit too. He'll rarely respond to it with anything except "I'm fine."
+
+
+Sabia. Disney princess turned apex predator. A large part of the curriculum involves the exploitation of magic animals. She tries to do something about this until she's gradually infuriated and stops showing up to class and causes a massive incident by covertly freeing the animals. She diverges from them and essentially learns from them and gains a new kind of power through them. She's headstrong, too much so at times. She has a mouth on her and a temper. Ultimately she's a deeply altruistic person, moreso than the rest of the cast. 
+
+Starts out a typical cleric/white mage but ends up a sort of archdruid with dumb physical strength and animal friends. Her appearance becomes unkempt. Her dress becomes tattered. She loses her jewelry.
+
+Is of extremely high birth. Was sent to the academy because her parents wanted her to die off. "She has not the temperment for ruling. Children like her are a threat to 'the way things are.'"
+
+
+Magic system
+It's going to have jrpg mechanics so aesthetically it's going to be typical fantasy stuff. Elements and specifications of it can be of thematic service.
+
+I think ultimately nonbasic magic shouldn't be well understood. It's felt more than known. A person can "learn" it but the stimulus needed and compatibility varies by person.
+
+
+Gameplay
+Characters have locations on a grid. It's a small grid, small enough to not worry about movement time, at least for the player characters. This allows some positional gangs where you try to push and pull enemies to get value on aoe attacks. Consider bonus damage for successfully hitting multiple enemies.
+
+Characters have action points. A fixed number of them to spend on different attacks. Certain actions are more powerful when used in tandem. You can bank up action points between turns. As characters progress they're given more action points per turn. Certain powerful moves require banking ap.
+
+

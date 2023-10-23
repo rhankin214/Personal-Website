@@ -1,0 +1,16 @@
+Party member kits
+
+I want characters to receive certain buffs through story progression but I also want some degree of customization. I think character moments can just 
+
+Tank
+Tank. Can reposition himself to prevent enemies from moving. Highest bulk by a substantial margin. Can throw enemies into each other to help with aoe.
+
+
+Bastard
+Mostly straightforward damage dealer. I want some amount of utility in there.
+
+
+Sunshine
+Support and movement effects. There's not a lot of ways for most characters to move about the grid, especially not precisely targeted or action-efficient ones, so I think there's a lot of room for him to be powerful.
+
+Princess.
