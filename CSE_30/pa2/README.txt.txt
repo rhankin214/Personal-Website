@@ -1,0 +1,1 @@
+The purpose of this assignment was to translate the provided java file into c to demonstrate our understanding of c's syntax.

@@ -1,0 +1,1 @@
+The purpose of this asssignment was to experiment with the C compiler and look at the different files it came up with for preprocessing, assembly, etc. when we add certain flags to our complier statement.
