@@ -16,7 +16,7 @@ import java.io.File;
 import java.io.FileInputStream;
 
 
-// TODO: Add class header comment
+
 public class PA4 {
     
     /**
@@ -57,7 +57,7 @@ public class PA4 {
         return maze;
     }
 
-    // TODO: Add comments and implement this method
+    
     public void escapeFromMaze(MazePoint [][] maze){
         if(maze == null)
         {
@@ -152,9 +152,8 @@ public class PA4 {
         return true;
     }
 
-    // TODO: Add comments and implement method
-    public boolean testRead(String fileToRead, MazePoint[][] expected) throws
-                            IOException
+    
+    public boolean testRead(String fileToRead, MazePoint[][] expected) throws IOException
     {
         MazePoint[][] inputMaze = this.readMaze(fileToRead);
         System.out.println("Input maze:");
@@ -170,7 +169,7 @@ public class PA4 {
         return true;
     }
 
-    // TODO: Add comments and implement method
+    
     public boolean testEscape(MazePoint[][] maze,
                               MazePoint[][] expectedSolution)
     {
@@ -216,7 +215,7 @@ public class PA4 {
         else {
           System.out.println("Read test 1 passed!");
         }
-        //TODO: Add at least two more calls to testRead
+        
         MazePoint[][] expected2 = new MazePoint[4][8];
         expected2[0][0] = new MazePoint(false);
         expected2[0][1] = new MazePoint(true);
@@ -318,7 +317,7 @@ public class PA4 {
     }
 
 
-    // TODO: Add comments and implement method.
+    
     public static void main(String[] args) throws IOException
     {
         PA4 solver = new PA4();
