@@ -13,8 +13,8 @@ To do:
   3. Connect those pages w/ github pages website.
   4. Personal bio page.
 
-(links broken atm)
-[CSE 8B](https://rhankin214.github.io/Personal-Website/CSE_8B/CSE8B_desc.html)
+(links broken atm) <br>
+[CSE 8B](https://rhankin214.github.io/Personal-Website/CSE_8B/CSE_8B_desc.html)
 
 [CSE 30](https://rhankin214.github.io/Personal-Website/CSE_30/CSE30_desc.html)
 
