@@ -14,7 +14,7 @@ To do:
   4. Personal bio page.
 
 (links broken atm)</br>
-[CSE 8B](link)
+[CSE 8B](https://rhankin214.github.io/Personal-Website/CSE_8B/CSE_8B_desc.html)
 
 [CSE 30](link)
 
